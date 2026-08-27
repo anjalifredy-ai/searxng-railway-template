@@ -1,10 +1,9 @@
-![SearXNG logo](https://cdn.prod.website-files.com/66d7fce027e564db2ca93b06/67425f2f7c095ba08bec5576_searxng-logo.svg)
 
-# Deploy and Host SearXNG on Railway
+# Deploy and Host RikkY Search on Railway
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/searxng-search-api?referralCode=QXdhdr&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
-Self-host SearXNG — the free, open-source metasearch engine that aggregates results from 70+ sources (Google, Bing, DuckDuckGo, and more) without tracking or profiling users. Unlike closed privacy search tools, SearXNG gives you full control: choose your engines, tune your results, and expose a clean JSON API for AI agents and automation workflows.
+Self-host RikkY Search — the free, open-source metasearch engine that aggregates results from 70+ sources (Google, Bing, DuckDuckGo, and more) without tracking or profiling users. Unlike closed privacy search tools, SearXNG gives you full control: choose your engines, tune your results, and expose a clean JSON API for AI agents and automation workflows.
 
 Deploy SearXNG on Railway in one click with this template. It uses the official `docker.io/searxng/searxng:latest` image, pre-configured with JSON API access enabled and a Redis cache for rate limiting — no Docker knowledge or manual config editing required. The GitHub repo for this template is at [https://github.com/protemplate/searxng](https://github.com/protemplate/searxng).
 
